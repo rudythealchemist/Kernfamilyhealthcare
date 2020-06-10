@@ -1,0 +1,2 @@
+window.alert(" KFHC covers medically necessary screenings and testing for the coronavirus (COVID-19) at no-cost to you. Learn more about COVID-19 and important health care updates.");
+// When the user scrolls the page, execute myFunction

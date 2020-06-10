@@ -1,0 +1,63 @@
+/* .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 90px;
+} */
+
+a p {
+    color: black;
+}
+
+a:link {
+    color: black;
+}
+
+a :visited {
+    color: rgb(6, 6, 7)
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+figcaption {
+    color: #582c83;
+}
+
+.bodyimages {
+    margin: 20px;
+}
+
+.bodyimg1 {
+    height: 610px;
+    width: 700px;
+}
+
+.bodyimg2 {
+    height: 610px;
+    width: 690px;
+}
+
+li {
+    font-size: 17px;
+    display: inline;
+    list-style: none;
+    d
+}
+
+.footer {
+    margin: top 50px;
+    padding: 30px;
+}
+
+.footericons li img {
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+}
+
+.phonenumber {
+    font-size: 30px;
+}
